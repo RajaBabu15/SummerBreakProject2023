@@ -1,0 +1,18 @@
+# Create a new conda environment named signlang
+conda create -n signlang python=3.7
+
+# Activate the environment
+conda activate signlang
+
+# Install opencv, tensorflow and keras
+conda install -c conda-forge opencv
+conda install -c anaconda tensorflow
+conda install -c anaconda keras
+
+# Install numpy and pyqt5
+pip install numpy
+pip install pyqt5
+
+
+# Export the dependencies to a file
+conda list --export > requirements.txt
