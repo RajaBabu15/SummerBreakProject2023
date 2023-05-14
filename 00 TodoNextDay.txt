@@ -1,2 +1,12 @@
 Hi
 Starting at the 14th May 2023
+
+15th Todo
+Complete the Sign Language Detection App and publish using the Tensorflow JS on the web
+Reformatted the Resume
+
+14th May Final
+Completed the creating of the environment
+Learning to creat the conda environment
+and how to change the environment for the vs code which one to exceute
+Laid the foundation of the Sign Language Detection App and Successfully Learned to use the mediappipe library (by google) and plotting the face masking using the mediaplot library
