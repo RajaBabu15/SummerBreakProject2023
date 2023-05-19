@@ -1,12 +1,23 @@
 Hi
-Starting at the 14th May 2023
+Starting on the 14th of May 2023
+
+19th May 2023
+Planning to build a stock price analyzer using the simple machine learning algorithm
+The second step would be to use the lstm model 
+The third model would be based on the transformer model
+
+Today itself I am going to deploy a simple machine-learning model using a basic machine-learning algorithm
+and tomorrow I will look for the lstm model and get my hand on the transformer encoding to be used for the transformer model.
+
+In the mean
+
 
 15th Todo
 Complete the Sign Language Detection App and publish using the Tensorflow JS on the web
 Reformatted the Resume
 
 14th May Final
-Completed the creating of the environment
-Learning to creat the conda environment
-and how to change the environment for the vs code which one to exceute
-Laid the foundation of the Sign Language Detection App and Successfully Learned to use the mediappipe library (by google) and plotting the face masking using the mediaplot library
+Completed the creation of the environment
+Learning to create the conda environment
+and how to change the environment for the vs code which one to execute
+Laid the foundation of the Sign Language Detection App and Successfully Learned to use the Mediappipe library (by Google) and plot the face masking using the Mediaplot library
