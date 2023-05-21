@@ -1,0 +1,6 @@
+Apache Kafka is a distributes event storage and stream-preprocessing platform
+
+Input Data ---> Stream Processing Engine ---> Output
+
+Stream Example
+website -> Click event -> Page View -> Page Load --> Calculation on the Server
