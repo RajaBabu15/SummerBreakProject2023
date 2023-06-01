@@ -1,7 +1,7 @@
 import streamlit as st
 from pickle4 import pickle
 import nltk
-
+import scipy.sparse._csr
 tfidf = pickle.load(open('vectorizer1.pkl','rb'))
 model = pickle.load(open('model.pkl','rb'))
 
