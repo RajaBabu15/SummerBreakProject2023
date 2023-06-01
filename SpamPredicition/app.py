@@ -1,5 +1,5 @@
 import streamlit as st
-import pickle
+from pickle4 import pickle
 import nltk
 
 tfidf = pickle.load(open('vectorizer1.pkl','rb'))
