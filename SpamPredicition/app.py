@@ -41,7 +41,7 @@ if st.button("Predict"):
 
 
     st.text("Sample Text:")
-    st.text("Spam , Did u find out what time the bus is at coz i need to sort some stuff out.")
+    st.text("Not Spam , Did u find out what time the bus is at coz i need to sort some stuff out.")
     st.text("Not Spam , Dude ive been seeing a lotta corvettes lately")
     st.text("Spam , Congratulations ur awarded either a yrs supply of CDs from Virgin Records or a Mystery Gift GUARANTEED Call 09061104283 Ts&Cs www.smsco.net 1.50pm approx 3mins")
     st.text("Not Spam , Same here, but I consider walls and bunkers and shit important just because I never play on peaceful but I guess your place is high enough that it don't matter")
