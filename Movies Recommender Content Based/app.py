@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import requests
-
+from sklearn.metrics.pairwise import cosine_similarity
 def fetch_poster(movie_id):
     url = 'https://api.themoviedb.org/3/movie/{}?api_key=6e5aec0d002eb2338c934ecb5c14e915&language=en-US'.format(movie_id.movie_id)
     respone = requests.get(url)
@@ -25,7 +25,8 @@ def recommend(name):
 movies_list = pickle.load(open('movies.pkl','rb'))
 movies = pd.DataFrame(movies_list)
 movies_list = movies_list['title'].values
-similarity = pickle.load(open('similarity.pkl','rb'))
+vectors = pickle.load(open('vectors.pkl','rb'))
+similarity = cosine_similarity(vectors)
 
 st.title('Movie Recommender System')
 selected_movies_name = st.selectbox('Movies List',(movies['title'].values))
