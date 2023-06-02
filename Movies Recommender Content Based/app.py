@@ -1,5 +1,5 @@
 import streamlit as st
-import pickle4 as pickle
+import pickle
 import pandas as pd
 import requests
 
