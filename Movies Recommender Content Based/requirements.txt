@@ -1,0 +1,4 @@
+streamlit
+pickle4
+scikit-learn
+scipy
