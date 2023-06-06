@@ -1,5 +1,5 @@
 import streamlit as st
-from pickle4 import pickle
+import pickle
 import pandas as pd
 import requests
 from sklearn.metrics.pairwise import cosine_similarity
