@@ -17,6 +17,13 @@ bool IsRegularBracketSequences(string s, int n){
         flag=false;
     return flag;
 }
+/*
+4
+)( --> false -->()()
+(()--> false --> ()()()
+() --> true
+))() --> false --> ()()()()
+*/
 
 void PrintRegularBracketSequences(string s, int n){
     int charCounter=0;
@@ -29,10 +36,15 @@ void PrintRegularBracketSequences(string s, int n){
             charCounter--;
         }
         if(charCounter<0){
-            cout<<'()';
-        else
-            cout<<')';
+            cout<<"()";
+            charCounter++;
+        }
+        else if (charCounter!=0){
+            cout<<")";
+            charCounter--;
+        }
     }
+    cout<<endl;
 }
 
 int main(){
