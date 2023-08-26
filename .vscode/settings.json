@@ -3,6 +3,8 @@
         "filesystem": "cpp",
         "xstring": "cpp",
         "cmath": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "array": "cpp",
+        "algorithm": "cpp"
     }
 }
