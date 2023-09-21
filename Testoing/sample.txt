@@ -1,0 +1,1184 @@
+<table class="table table-bordered dataTable no-footer" id="ex_mod" role="grid" aria-describedby="ex_mod_info">
+                        <thead>
+                            <tr role="row"><th width="10%" align="center" class="sorting" tabindex="0" aria-controls="ex_mod" rowspan="1" colspan="1" aria-label="Faculty Name: activate to sort column ascending" style="width: 103.4px;">Faculty Name</th><th align="center" class="sorting" tabindex="0" aria-controls="ex_mod" rowspan="1" colspan="1" aria-label="Course Code: activate to sort column ascending" style="width: 61.4px;">Course Code</th><th align="center" class="sorting" tabindex="0" aria-controls="ex_mod" rowspan="1" colspan="1" aria-label="Course name: activate to sort column ascending" style="width: 183.4px;">Course name</th><th align="center" class="sorting" tabindex="0" aria-controls="ex_mod" rowspan="1" colspan="1" aria-label="Group: activate to sort column ascending" style="width: 37.4px;">Group</th><th align="center" class="sorting" tabindex="0" aria-controls="ex_mod" rowspan="1" colspan="1" aria-label="Section: activate to sort column ascending" style="width: 45.4px;">Section</th><th align="center" class="sorting" tabindex="0" aria-controls="ex_mod" rowspan="1" colspan="1" aria-label="Topic Name : activate to sort column ascending" style="width: 97.4px;">Topic Name </th><th align="center" class="sorting" tabindex="0" aria-controls="ex_mod" rowspan="1" colspan="1" aria-label="Topic Type : activate to sort column ascending" style="width: 221.4px;">Topic Type </th><th align="center" class="sorting" tabindex="0" aria-controls="ex_mod" rowspan="1" colspan="1" aria-label="Submission Deadline : activate to sort column ascending" style="width: 101.4px;">Submission Deadline </th><th align="center" class="sorting_asc" tabindex="0" aria-controls="ex_mod" rowspan="1" colspan="1" aria-label="Uploaded Date Time : activate to sort column descending" style="width: 102.4px;" aria-sort="ascending">Uploaded Date Time </th><th align="center" class="sorting" tabindex="0" aria-controls="ex_mod" rowspan="1" colspan="1" aria-label="Download : activate to sort column ascending" style="width: 84.4px;">Download </th></tr>
+                        </thead>
+                        <tbody>
+                                                            
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                <tr role="row" class="odd">
+                                     
+                                     <td class="">Paidinaidu  Paluri</td>
+                                    <td class="">CHC301</td>
+                                    <td>Separation Processes</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Lecture Plan</td>
+                                    <td>Lecture plan</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">01-08-2023 09:37:40am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1002/Lecture_plan_169086286063267213764c8850c5dfe3.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>lect-I1</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">01-09-2023 09:52:04am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/lect-I1_1693542124141415809064f166eca755f.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>lect-I2</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">01-09-2023 09:52:50am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/lect-I2_1693542170212578466964f1671a3453d.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>lect-I3</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">01-09-2023 09:53:25am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/lect-I3_1693542205129320842564f1673dbda3f.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Lecy-I0</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">01-09-2023 10:31:31am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/Lecy-I0_1693544491210138835764f1702bc9a52.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Lect-I0</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">01-09-2023 10:31:42am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/Lect-I0_169354450227649771464f17036f2904.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Lect-I4</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">01-09-2023 10:32:30am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/Lect-I4_1693544550184041609364f170669b77b.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Krishna Sandilya Durbha</td>
+                                    <td class="">CHC304</td>
+                                    <td>Chemical Kinetics and Reaction Engineering Lab</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>CKRE Lab manual</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">04-08-2023 04:30:30pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1019/CKRE_Lab_manual_169114683052984522664ccda4e37994.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Vineet  Kumar</td>
+                                    <td class="">CHC303</td>
+                                    <td>Process Design and Economics</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Lecture Plan</td>
+                                    <td>Syllabus</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">04-08-2023 10:04:05am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1073/Syllabus_1691123645136044779464cc7fbde391d.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Paidinaidu  Paluri</td>
+                                    <td class="">CHC305</td>
+                                    <td>Mass Transfer Lab</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Lecture Plan</td>
+                                    <td>Lecture plan</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">04-08-2023 10:14:13am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1002/Lecture_plan_169112425315097716164cc821d5b460.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Vineet  Kumar</td>
+                                    <td class="">CHC303</td>
+                                    <td>Process Design and Economics</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Feasibility Survey</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">04-08-2023 10:17:34am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1073/Feasibility_Survey_169112445454294198664cc82e696222.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Paidinaidu  Paluri</td>
+                                    <td class="">CHC301</td>
+                                    <td>Separation Processes</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Model Solution Sheet</td>
+                                    <td>Quiz-1 solutions</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">05-09-2023 09:36:24am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1002/Quiz-1_solutions_1693886784175153994864f6a9409112a.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Paidinaidu  Paluri</td>
+                                    <td class="">CHC301</td>
+                                    <td>Separation Processes</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Model Solution Sheet</td>
+                                    <td>Assignment -1 solutions</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">05-09-2023 09:43:08am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1002/Assignment_-1_solutions_1693887188190803174464f6aad4c72db.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>lecture-3</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">05-09-2023 12:38:39pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/lecture-3_169389771910187754664f6d3f72526f.pptx" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Aritra  Santra</td>
+                                    <td class="">CHC304</td>
+                                    <td>Chemical Kinetics and Reaction Engineering Lab</td>
+                                    <td>1</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Lab Manual</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">06-08-2023 05:07:50pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1449/Lab_Manual_1691321870205803155164cf860e56751.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Aritra  Santra</td>
+                                    <td class="">CHC302</td>
+                                    <td>Chemical Kinetics and Reaction Engineering</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Lecture Plan</td>
+                                    <td>Lecture Plan</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">06-08-2023 05:08:33pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1449/Lecture_Plan_169132191399846752964cf86398f005.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Lect-I6</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">06-09-2023 06:12:46pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/Lect-I6_169400416662098509764f873c6e09ac.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Paidinaidu  Paluri</td>
+                                    <td class="">CHC301</td>
+                                    <td>Separation Processes</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Psychrometric chart</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">07-08-2023 04:12:50pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1002/Psychrometric_chart_169140497060157077164d0caaad5efe.PDF" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Vineet  Kumar</td>
+                                    <td class="">CHC303</td>
+                                    <td>Process Design and Economics</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>P&amp;ID; Symbols</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">07-08-2023 05:15:47pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1073/PID_Symbols_1691408747183912552764d0d96bbc12a.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Aritra  Santra</td>
+                                    <td class="">CHC304</td>
+                                    <td>Chemical Kinetics and Reaction Engineering Lab</td>
+                                    <td>1</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Quiz announcement</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">07-09-2023 10:31:35am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1449/Quiz_announcement_169406289540608448364f9592f5cee2.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Model Solution Sheet</td>
+                                    <td>DSA</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">08-09-2023 10:50:47am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/DSA_16941504475005841264faaf2fe4769.docx" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">A  Samanta</td>
+                                    <td class="">CHC305</td>
+                                    <td>Mass Transfer Lab</td>
+                                    <td>1</td>
+                                    <td></td>
+                                     <td>Lecture Plan</td>
+                                    <td>Lab Plan</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">09-08-2023 09:49:28am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1014/Lab_Plan_169155476889340346364d313d06fc00.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Arup Kumar Pal</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>1</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Introduction to Data Structures</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">10-08-2023 03:59:46pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/959/Introduction_to_Data_Structures_1691663386164069976764d4bc1a9b866.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Arup Kumar Pal</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>1</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Introduction to Algorithms</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">10-08-2023 04:01:30pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/959/Introduction_to_Algorithms_1691663490189028273564d4bc82dfa10.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Paidinaidu  Paluri</td>
+                                    <td class="">CHC305</td>
+                                    <td>Mass Transfer Lab</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>CALIBRATION OF A REFRACTOMETER Lab Manual</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">11-08-2023 04:08:28pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1002/CALIBRATION_OF_A_REFRACTOMETER_Lab_Manual_169175030852273988564d60fa42a40c.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Lect-I7</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">11-09-2023 04:53:37pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/Lect-I7_16944314179180813164fef8b9b8c2e.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Lect-I8</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">11-09-2023 04:54:33pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/Lect-I8_169443147349121955564fef8f1687d6.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Paidinaidu  Paluri</td>
+                                    <td class="">CHC301</td>
+                                    <td>Separation Processes</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Tutorial</td>
+                                    <td>Problem on counter-current solid-liquid extraction</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">11-09-2023 10:04:34am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1002/Problem_on_counter-current_solid-liquid_extraction_1694406874207981119764fe98da7f1df.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Krishna Sandilya Durbha</td>
+                                    <td class="">CHC304</td>
+                                    <td>Chemical Kinetics and Reaction Engineering Lab</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Notice_Quiz_13Sep2023</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">11-09-2023 10:30:40am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1019/Notice_Quiz_13Sep2023_1694408440115437014364fe9ef89aead.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Vineet  Kumar</td>
+                                    <td class="">CHC303</td>
+                                    <td>Process Design and Economics</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Types of Design</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">12-09-2023 05:10:38pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1073/Types_of_Design_1694518838158955404465004e364aadb.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Vineet  Kumar</td>
+                                    <td class="">CHC303</td>
+                                    <td>Process Design and Economics</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Cost Estimation</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">12-09-2023 05:12:06pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1073/Cost_Estimation_169451892662573769265004e8ec9d05.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Vineet  Kumar</td>
+                                    <td class="">CHC303</td>
+                                    <td>Process Design and Economics</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Breakeven point</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">12-09-2023 05:13:27pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1073/Breakeven_point_1694519007112117360965004edf5aca4.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Vineet  Kumar</td>
+                                    <td class="">CHC303</td>
+                                    <td>Process Design and Economics</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Interest</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">12-09-2023 05:14:50pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1073/Interest_1694519090204798900865004f32cba9a.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Lecture-1</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">13-08-2023 04:56:24pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/Lecture-1_169192598455742427364d8bde01aef4.pptx" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Lecture-2</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">13-08-2023 04:57:04pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/Lecture-2_1691926024132008155864d8be08e3bd6.pptx" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Lect-I9</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">13-09-2023 06:17:16pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/Lect-I9_16946092357957356496501af53f32ce.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Paidinaidu  Paluri</td>
+                                    <td class="">CHC305</td>
+                                    <td>Mass Transfer Lab</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Gas diffusivity measurement lab manual</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">14-08-2023 04:40:00pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1002/Gas_diffusivity_measurement_lab_manual_1692011400208075647064da0b8881ffc.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Paidinaidu  Paluri</td>
+                                    <td class="">CHC301</td>
+                                    <td>Separation Processes</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Assignment (Theory)</td>
+                                    <td>Assignment - 1</td>
+                                    <td>31 Aug 2023</td>
+                                    <td class="sorting_1">14-08-2023 05:09:19pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1002/Assignment_-_1_169201315976414427464da12671103c.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Arup Kumar Pal</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>1</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>String Matching</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">16-09-2023 06:35:17pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/959/String_Matching_169486951717701074976505a80d1bfd0.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Arup Kumar Pal</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>1</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>String Matching</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">16-09-2023 06:35:26pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/959/String_Matching_169486952618096318526505a8168bb29.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Arup Kumar Pal</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>1</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Hashing </td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">16-09-2023 06:36:56pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/959/Hashing__16948696166279799986505a8708ef9b.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Arup Kumar Pal</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>1</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Sorting</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">16-09-2023 06:39:51pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/959/Sorting_169486979114618694836505a91f009f3.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Arup Kumar Pal</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>1</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Queues</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">16-09-2023 06:41:42pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/959/Queues_169486990217292680116505a98e45f02.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Arup Kumar Pal</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>1</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Stacks</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">16-09-2023 06:42:30pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/959/Stacks_169486995019915435006505a9becabeb.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Arup Kumar Pal</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>1</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Array</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">20-08-2023 12:41:40pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/959/Array_1692515500203397038964e1bcac7d074.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Paidinaidu  Paluri</td>
+                                    <td class="">CHC301</td>
+                                    <td>Separation Processes</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Tutorial</td>
+                                    <td>Problem on single stage extraction</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">21-08-2023 04:05:57pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1002/Problem_on_single_stage_extraction_1692614157160886129664e33e0d3fe38.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Paidinaidu  Paluri</td>
+                                    <td class="">CHC301</td>
+                                    <td>Separation Processes</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Model Solution Sheet</td>
+                                    <td>Solution-Single stage extraction problem</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">23-08-2023 09:50:06am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1002/Solution-Single_stage_extraction_problem_1692764406191503691664e588f6b2619.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Paidinaidu  Paluri</td>
+                                    <td class="">CHC301</td>
+                                    <td>Separation Processes</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Tutorial</td>
+                                    <td>Cross-current extraction problem</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">23-08-2023 09:50:38am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1002/Cross-current_extraction_problem_169276443888851437764e5891658d11.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Paidinaidu  Paluri</td>
+                                    <td class="">CHC301</td>
+                                    <td>Separation Processes</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Tutorial</td>
+                                    <td>Counter-current extraction problem</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">24-08-2023 09:42:17am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1002/Counter-current_extraction_problem_1692850337148094555164e6d8a13d251.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Arup Kumar Pal</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>1</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Linked List</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">27-08-2023 07:16:54pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/959/Linked_List_1693144014170207410264eb53ce5a950.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Dharavath  Ramesh</td>
+                                    <td class="">CSC203</td>
+                                    <td>Computer Organization </td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Lecture Plan</td>
+                                    <td>Lecture Plan_23-24</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">31-07-2023 04:52:09pm</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/958/Lecture_Plan_23-24_1690802529108394947364c7996114568.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Paidinaidu  Paluri</td>
+                                    <td class="">CHC301</td>
+                                    <td>Separation Processes</td>
+                                    <td>0</td>
+                                    <td></td>
+                                     <td>Tutorial</td>
+                                    <td>Cross-current extraction problem</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">31-08-2023 09:47:25am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1002/Cross-current_extraction_problem_169345544559465038964f014555c185.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Linked list</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">31-08-2023 10:31:44am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/Linked_list_169345810495258262664f01eb87f7a2.pptx" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Stack</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">31-08-2023 10:32:53am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/Stack_1693458173195001341664f01efd4fa65.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="odd">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Queue</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">31-08-2023 10:34:05am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/Queue_1693458245148152814164f01f450d819.pdf" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr><tr role="row" class="even">
+                                     
+                                     <td class="">Gadadhar  Sahoo</td>
+                                    <td class="">CSE201</td>
+                                    <td>Data Structures and Algorithms</td>
+                                    <td>2</td>
+                                    <td></td>
+                                     <td>Class Notes</td>
+                                    <td>Sorting</td>
+                                    <td>Not Applicable</td>
+                                    <td class="sorting_1">31-08-2023 10:34:57am</td>
+                                    <td width="5%" align="center">
+<center><a class="btn btn-primary" href="https://mis.iitism.ac.in/./assets/faculty_tutorials/2023-2024/Monsoon/1218/Sorting_169345829745371911664f01f7991b83.pptx" download="" target="_blank">Download</a></center>                                     </td>
+                                    
+                                    
+                                    
+                                    
+                                
+                                  
+                                                               
+                                </tr></tbody>
+
+                    </table>
